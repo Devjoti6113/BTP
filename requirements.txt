@@ -1,0 +1,2 @@
+# Core runtime dependency (only needed if running download_cmst_data.py)
+gdown>=4.7.1
